@@ -1,0 +1,4 @@
+name	email	phone
+ahsan	a@gmail.com	123456
+ali	ali@gmail.com	123456
+osama	osama@g	123

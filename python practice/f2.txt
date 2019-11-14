@@ -1,0 +1,5 @@
+pakistan0 zindabad0
+pakistan1 zindabad1
+pakistan2 zindabad2
+pakistan3 zindabad3
+pakistan00 zindabad00

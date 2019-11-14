@@ -1,4 +1,4 @@
-#Author : Engr. Gulraeez Gulshan
+#Author : Ahsan Rao
 
 from builtins import print
 import requests

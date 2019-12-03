@@ -18,7 +18,7 @@ with open('Cincinnati_zipcodes.txt', mode='w') as obj :  ##cincinnati file
     for links in soup.find_all('a'):
         link=str(links.get('title'))       ##print all links tags from page000
 
-00 bll        #if link[0:10] == "ZIP Code 4":   ##Dayton Zip Code Condition
+        #if link[0:10] == "ZIP Code 4":   ##Dayton Zip Code Condition
         # if link[0:10] == "ZIP Code 4":   ##Columbus Zip Code Condition
         # if link[0:10] == "ZIP Code 4":  ##Cleveland Zip Code Condition
         if link[0 :10] == "ZIP Code 4" :  ##Cincinnati Zip Code Condition

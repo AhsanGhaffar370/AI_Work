@@ -15,3 +15,6 @@ with open('US_States.txt', mode='w') as obj: #yha close ka func use krne ki zaro
         print(name,code)
 
         obj.write(name+", "+code+"\n")
+
+
+

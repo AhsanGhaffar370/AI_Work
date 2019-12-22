@@ -1,0 +1,36 @@
+********best websites ************
+https://scikit-learn.org/stable/tutorial/index.html
+https://www.datacamp.com/
+https://intellipaat.com/blog/tutorial/python-tutorial/python-pandas-tutorial/
+https://www.datacamp.com/community/data-science-cheatsheets
+https://pythonprogramming.net/machine-learning-tutorial-python-introduction/
+
+*********Documentation**********
+https://www.scipy.org/docs.html
+
+***********datasets***********
+openml
+
+
+*********AI*********
+simpilearn: https://www.youtube.com/watch?v=8Pyy2d3SZuM&list=PLEiEAq2VkUULyr_ftxpHB6DumOq1Zz2hq&index=3
+edureka:    https://www.youtube.com/watch?v=JMUxmLyrhSk&list=PL9ooVrP1hQOGHNaCT7_fwe9AabjZI1RjI&index=2
+
+******Machine Learning*********
+sentdex:       
+https://www.youtube.com/watch?v=URTZ2jKCgBc&list=PLQVvvaa0QuDd0flgGphKCej-9jp-QdzZ3
+
+edureka:       
+https://www.youtube.com/watch?v=b2q5OFtxm6A&list=PL9ooVrP1hQOHUfd-g8GUpKI3hHOwM_9Dn
+
+code Heroku(content+project videos):   
+https://www.youtube.com/watch?v=VAOx84gnsCQ&list=PLYU7hR8tUkqRWCeTUjHDHfYwGGOQXHGHt
+
+edureka:       
+https://www.youtube.com/watch?v=bwZ3Qiuj3i8&list=PL9ooVrP1hQOHY-BeYrKHDrHKphsJOyRyu&index=63
+
+
+*********DAta Science*********
+edureka:     https://www.youtube.com/watch?v=-Rf4fZDQ0yw&list=PLjgj6kdf_snaw8QnlhK5f3DzFDFKDU5f4
+
+

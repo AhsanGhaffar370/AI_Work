@@ -4,6 +4,7 @@ https://www.datacamp.com/
 https://intellipaat.com/blog/tutorial/python-tutorial/python-pandas-tutorial/
 https://www.datacamp.com/community/data-science-cheatsheets
 https://pythonprogramming.net/machine-learning-tutorial-python-introduction/
+http://www.codeheroku.com/course?course_id=1
 
 *********Documentation**********
 https://www.scipy.org/docs.html

@@ -1,7 +1,0 @@
-﻿#include @"form1\form1.ph"
-
-% privately used packages
-% private interfaces
-% private classes
-% implementations
-#include @"form1\form1.pro"

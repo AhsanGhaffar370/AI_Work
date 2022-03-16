@@ -1,0 +1,7 @@
+anees ahmed= https://www.youtube.com/watch?v=DNm1mXW5PAE&list=PL4lZMpZtayiHSDmmq3zif0XYInwl65R7G&index=16
+anees ahmed= https://www.youtube.com/watch?v=H3creGYvb6Q&list=PLq-i5-opV6Tq6CeHGGYwmA5q-bE1Ie2XX
+sir nasir= https://www.youtube.com/channel/UCrD7k_kX6bg3mRz28BAZlzA/videos
+
+
+
+classifier to detector= https://www.pyimagesearch.com/2020/06/22/turning-any-cnn-image-classifier-into-an-object-detector-with-keras-tensorflow-and-opencv/?fbclid=IwAR33FVBvUfrrtmXrB7QKmAShBCejcrZQV238_Z45DGOjRmOUZLVq5TnVIog
